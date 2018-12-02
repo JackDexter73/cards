@@ -3,7 +3,7 @@ layout: post
 title:  "Post with no image"
 categories: jekyll update
 ---
-When there is no image mentioned in the front-matter, default image will be displayed. You can change this image to any other one that suits your needs.
+
 
 So basically I am testing if I am able to change anything in this bloody blog, and also I want to emphasize that I need more patience in my life. I don't know if I spelled patience right though.
 
