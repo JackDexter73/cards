@@ -2,6 +2,7 @@
 layout: post
 title: "Dlaczego warto czytać"
 date:   2018-12-08 14:20:11 +0100
+img: languagesonpage1.jpg
 categories: new
 ---
 
