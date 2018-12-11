@@ -2,6 +2,7 @@
 layout: post
 title: "First Blog Post"
 date:   2018-12-02 14:20:11 +0100
+img: JackDexterlogo.jpg
 ---
 
 
