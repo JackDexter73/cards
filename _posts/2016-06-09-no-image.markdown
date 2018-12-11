@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Post with no image"
-categories: jekyll update
----
-
-
-So basically I am testing if I am able to change anything in this bloody blog, and also I want to emphasize that I need more patience in my life. I don't know if I spelled patience right though.
-
