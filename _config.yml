@@ -20,7 +20,7 @@ default-image: JackDexterlogo.jpg # If there is no featured image in a post then
 
 #footer
 
-built-by: JackDexter
+#built-by: JackDexter
 
 copyright:
    name: JackDexter
@@ -33,11 +33,11 @@ paginate: 6
 paginate_path: /page:num/
 
 # Tracker
-analytics: UA-83979019-1
+#analytics: UA-83979019-1
 
 # Comments
-disqus: yes
-disqus-shortname: webjeda-demo
+#disqus: yes
+#disqus-shortname: webjeda-demo
 
 #social
 #facebook: http://facebook.com/webjeda
