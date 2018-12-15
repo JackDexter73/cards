@@ -3,7 +3,7 @@ layout: post
 title: "Dlaczego warto czytać"
 date:   2018-12-08 14:20:11 +0100
 img: languagesonpage1.jpg
-categories: new
+categories: polski
 ---
 
 ## Przegląd nawyków: Czytanie
@@ -12,14 +12,13 @@ categories: new
 
 Tematem tego tygodnia na **blogu Jack Dexter** jest czytanie.
 
-A w dzisiejszym poście przyjrzymy się krótko historii czytania i sprawdzimy, dlaczego wogóle warto czytać. Jakie mamy korzyści z tego że będziemz czytali więcej?
+A w dzisiejszym poście przyjrzymy się krótko historii czytania i sprawdzimy, dlaczego wogóle warto czytać. Jakie mamy korzyści z tego że będziemy czytali więcej?
 
 
 Zanim zaczniemy, przekazywać argumenty, dlaczego warto czytać, spójrzmy na kilka faktów historycznych:
 
 
-* Początki ludzkiego języka można z grubsza określić na 100 000 i
-50 000 lat temu, (chociażby większość naukowców uznaję, że nie da się określić dokładnej daty powstania języków, niemal że powstanie języków był ciągłym procesem.)
+* Początki ludzkiego języka można z grubsza określić na 100 000 i 50 000 lat temu, (chociażby większość naukowców uznaję, że nie da się określić dokładnej daty powstania języków, niemal że powstanie języków był ciągłym procesem.)
 
 
 * pierwszy rysunek jaskini pojawił się około 35000 lat B.C
@@ -110,15 +109,13 @@ Inny artykuł idzę jeszce dalej  i stwierdza:
 "Naprawdę nie ma znaczenia, jaką książkę czytasz, zatracając się w całkowicie wciągającej książce
 możesz uciec od zmartwień i stresów codziennego świata i spędzić czas podczas zwiedzania domeny wyobraźni autora. "
 
-Chodziasz że mnie to badanie akurat nie zbytnie przekonywuje, chce podkreślić z własnego doświadzenia że w przypadku większośći nawyków prawdziwe korzyści pojawiają się po pewnym czasie, i tak samo dotyczy to czytania.
-
 W związku z tym chodzi o to, aby przeczytać coś, co lubisz, a jeśli nie znalazłeś książek, które Ci się podobają, spróbuj czegoś nowego, może jesteś w (kryminałowe magazyny może lubisz książki naukowe, może japońskie manga) Jest tak wiele gatunków i jestem pewien, że istnieje wiele książek, które mogą dać ci wspaniałe wrażenia z czytania, zagubienie się w opowieści.
 
-I kto wie może własnie dzięki temu poczujesz się zrelaksowany i będziesz miał świetną rozrywkę w tym samym czasie.
+I kto wie może własnie dzięki temu poczujesz się zrelaksowany i będziesz miał świetną rozrywkę.
 
 Więc następnym razem, jak będziesz chciał się troche zrelaksować i pragniesz świetnej rozrywkę w tym samym czasie, weż książkę i poczytaj. Wypróbuj to jako alternatywę dla oglądania telewizji i surfowania w Internecie lub gier wideo i sam sprawdz czy to prawda.
 
-I jak spróbujesz to pamietaj, że koszyść często bierze się z nawyku.
+I jak spróbujesz to pamietaj, że koszyść często bierze się po jakimś czasie z siły nawyku.
 
 
 Dlatego podsumowując drugą korzyść:
@@ -133,14 +130,12 @@ Dlatego podsumowując drugą korzyść:
 
 Do tej pory spojrzeliśmy na kilku naukowych dowodów na to, że czytanie czyni cię mądrzejszym i może pomóc ci się zrelaksować.
 
-Ale nie wierz mi na słowo, badania naukowe często pokazują nam bardzo ograniczone wyniki, ze względu na małą liczbę uczestników, projektowanie eksperymentów itp.
+Ale nie wierz mi na słowo, badania naukowe często pokazują nam bardzo ograniczone wyniki, ze względu na małą liczbę uczestników i projektowanie eksperymentów.
 
-Tak więc dla naszej ostatniej korzyści chcę, abyś spojrzał na swoje życie i przypomniał sobie fakty historyczne, na które patrzyliśmy na początku artykułu.
+Tak więc dla naszej ostatniej korzyści chcę, abyś spojrzał na swoje życie i przypomniał sobie fakty historyczne, na które patrzyliśmy na początku tego artykułu.
 Przypomni sobie o ludziach, którzy są blisko ciebie i o ludziach, których podziwiasz za ich mądrość, spokój i umiejętność racjonalnego myślenia, żyjących lub martwych.
 
-Istnieje duże prawdopodobieństwo, że ci ludzie byli i namiętnymy czytelnikami.
-
-Naprawdę wierzę, że potrzebujemy bardziej wykształconych ludzi na świecie, aby najpierw zidentyfikować najważniejsze problemy, którymi trzeba się zająć, a potem skutecznie rozwiązywać te problemy.
+Istnieje duże prawdopodobieństwo, że ci ludzie są i byli namiętnymy czytelnikami.
 
 W końcu chcę was zostawić słowami profesora Loana, Fayaz Ahmada:
 
