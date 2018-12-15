@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Por que vale a pena ler"
+title: "Por que devemos ler"
 date:   2018-12-15 15:20:11 +0100
 img: languagesonpage1.jpg
 categories: portugues
