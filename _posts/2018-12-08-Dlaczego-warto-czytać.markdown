@@ -12,46 +12,46 @@ categories: polski
 
 Tematem tego tygodnia na **blogu Jack Dexter** jest czytanie.
 
-A w dzisiejszym poście przyjrzymy się krótko historii czytania i sprawdzimy, dlaczego wogóle warto czytać. Jakie mamy korzyści z tego że będziemy czytali więcej?
+A w dzisiejszym poście przyjrzymy się krótko historii czytania i sprawdzimy, dlaczego w ogóle warto czytać. Jakie mamy korzyści z tego, że będziemy czytali więcej?
 
 
 Zanim zaczniemy, przekazywać argumenty, dlaczego warto czytać, spójrzmy na kilka faktów historycznych:
 
 
-* Początki ludzkiego języka można z grubsza określić na 100 000 i 50 000 lat temu, (chociażby większość naukowców uznaję, że nie da się określić dokładnej daty powstania języków, niemal że powstanie języków był ciągłym procesem.)
+* Początki ludzkiego języka można z grubsza określić na 100 000 i 50 000 lat temu, (chociażby większość naukowców uznaję, że nie da się określić dokładnej daty powstania języków i podkreślają że powstanie języków był ciągłym procesem).
 
 
-* pierwszy rysunek jaskini pojawił się około 35000 lat B.C
+* pierwszy rysunek jaskini pojawił się około 35000 lat p.n.e.(p.n.e = przed naszą erą).
 
-* Pierwsze pisemne zapisy pojawiły się około 6000 lat B.C
+* Pierwsze pisemne zapisy pojawiły się około 6000 lat p.n.e..
 
-* Najstarszy nam znany tekst to tablet Dipilio, który jest datowany na 5 260 pne.
+* Najstarszy nam znany tekst to tablet Dipilio, który jest datowany na 5 260 p.n.e..
 
-* drukarnia została wynaleziona w roku 1439
+* drukarnia została wynaleziona w roku 1439.
 
-* pierwsza publiczna elektroniczna biblioteka cyfrowa została stworzona w roku 1971 (Gutenberg projekt)
+* pierwsza publiczna elektroniczna biblioteka cyfrowa została stworzona w roku 1971 (Projekt Gutenberg).
 
 
 Jeśli spojrzymy na wskaźniki publikowania książek z ostatnich kilku lat, okaże się, że każdego roku publikowanych jest ponad 2 miliony książek. Co wynika w ponad 5000 książek publikowanych każdego dnia.
 
 Przy tak wielu publikacjach wydawanych można pomyśleć, że ludzie czytają więcej.
 
-Ale czy ludzie czytają więcej niż kiedyś jak jeszcze nie było tyle książek, czy może przez przypływ nowych technologi ludzie czytają mniej, to naprawdę trudne pytanie.
+ Ale czy ludzie czytają więcej niż kiedyś, jak jeszcze nie było tyle książek, czy może przez przypływ nowych technologi ludzie czytają mniej, to naprawdę trudne pytanie.
 
 Niezliczone raporty, zwłaszcza z krajów rozwiniętych, mówią, że ludzie spędzają mniej czasu przed książkami.
 
-Według raportu Sense Media z 2014 roku widoczny jest gwałtowny spadek w przyzwyczajeń czytania nastolatków w wieku od 9 do 17 lat.
-Z drugiej strony są naukowcy którzi krytykują te
-Raporty za to że zawierają zbyt wąską definicję czytania, w której nie uwzględnia się czytania witryn mediów społecznościowych, artykułów internetowych i wiadomości online.
+Według raportu Sense Media z 2014 roku widoczny jest gwałtowny spadek w przyzwyczajeniach czytania nastolatków w wieku od 9 do 17 lat.
+Z drugiej strony są naukowcy, którzy krytykują te
+Raporty za to, że zawierają zbyt wąską definicję czytania, w której nie uwzględnia się czytania witryn mediów społecznościowych, artykułów internetowych i wiadomości online.
 
-Innymi możliwymi przyczynami spadku "tradycyjnych nawyków czytania", oprócz wszechobecność mediów społecznościowych okazały się poza tym, nasz system edukacyjny zniechęcający do czytania, i istnienje milion innych gadżetów, które pochłaniają nasz czas.
+Innymi możliwymi przyczynami spadku tradycyjnych nawyków czytania, oprócz wszechobecności mediów społecznościowych okazały się poza tym, nasz system edukacyjny zniechęcający do czytania, i istnienie milion innych gadżetów, które pochłaniają nasz czas.
 
-Teraz ktoś mógłby powiedzieć, że skoro trend czytania książek idzię w dół i skoro mamy tyle inne media i gadżety, np. Youtube i telefon komórkowy, dlaczego do chuja powinienem czytać więcej książek.
-
-
+Teraz ktoś mógłby powiedzieć, że skoro trend czytania książek idzie w dół i skoro mamy tyle inne media i gadżety, np. YouTube i telefon komórkowy, dlaczego do chuja powinienem czytać więcej książek.
 
 
-Zanim więc dam tobie drogi czytelniku szansę wymyślić jakokolwiek wymówkę, aby nie czytać, chcę ci dać trzy osobiste korzyści, dlaczego czytanie jest dla ciebie dobre.
+
+
+Zanim więc dam tobie drogi czytelniku szansę wymyślić jakąkolwiek wymówkę, aby nie czytać, chcę ci dać trzy osobiste korzyści, dlaczego czytanie jest dla ciebie dobre.
 
 
 
@@ -62,22 +62,22 @@ Zanim więc dam tobie drogi czytelniku szansę wymyślić jakokolwiek wymówkę,
 
 Właściwie w naszym społeczeństwie już jest dobrze ugruntowane, że ludzie inteligentni czytają. I istnieje wiele badań potwierdzających tę relację.
 
-Badanie Metaanalysis przeprowadzone przez Mumpera i Gerriga potwierdza na przykład, że ​​czytanie w czasie wolnym poprawia zdolności socjo-kognitywne.
+Badanie [Metaanalizy](https://pl.wikipedia.org/wiki/Metaanaliza), a więc badanie przeprowadzone przez profesora Mumpera i Gerriga potwierdza na przykład, że ​​czytanie w czasie wolnym poprawia zdolności, socjalne jak i kognitywne.
 
 
-Dotycyąc umiejętnośći socjalnych pisarka i współzałożycielka Elizabeth Oberg idzie jeszcze dalej i stwierdza, że:
-> "Prawdopodobnie najbardziej pryekonującym odkryciem
-> jest to, że niezależnie od dochodów, ilość czasu spędyonego na czytaniu
+Dotycząc umiejętności socjalnych pisarka i współzałożycielka Elizabeth Oberg idzie jeszcze dalej i stwierdza, że:
+> "Prawdopodobnie najbardziej przekonującym odkryciem
+> jest to, że niezależnie od dochodów, ilość czasu spędzonego na czytaniu
 >  dla przyjemności ściśle się wiąże z poziomem życia
 > społecznego, głosowania i aktywności politycznej,
 > uczestnictwem w kulturze i sztukach pięknych,
 > wolontariacie, działalności charytatywnej, a nawet
 > regularnym ćwiczeniem".
 
-Dotycyąc zdolności kognitywnych, istnieją konkretne badania które pokazują, że łączność naszych mózgów wydaje się zwiększać po przeczytaniu danego fikcyjnego materiału do czytania.
+Dotycząc zdolności kognitywnych, istnieją konkretne badania, które pokazują, że łączność naszych mózgów wydaje się zwiększać po przeczytaniu danego fikcyjnego materiału do czytania.
 
 
-Jedno szczególne badanie, opublikowane w jornalu "brainconnectivity", prowadzone było przez 19 dni, i mierzyło MRI (fale mózgowe) uczestników przed, podczas i po przeczytaniu powieści i odkryło zwiększoną łączność w częściach mózgu odpowiedzialnych za receptywność językową - tak bardzo, że zwiększona łączność została zachowana kilka dni później, fenomen które potem uznany jak podobny do "pamięći mięśniowej."
+Jedno szczególne badanie, opublikowane w czasopiśmie "brainconnectivity", prowadzone było przez 19 dni, i mierzyło MRI (fale mózgowe) uczestników, przed, podczas i po przeczytaniu powieści i odkryło zwiększoną łączność w częściach mózgu odpowiedzialnych za receptywność językową -- tak bardzo, że zwiększona łączność została zachowana kilka dni później, fenomen, którego potem uznany za podobny do [pamięci mięśniowej](https://pl.wikipedia.org/wiki/Pami%C4%99%C4%87_cia%C5%82a).
 
 Co owszem potwierdza powiedzenia, "Czytanie jest dla umysłu tym, czym gimnastyka dla ciała".
 
@@ -94,28 +94,28 @@ W przeciwieństwie do korzyści pierwszej wiele osób może się z tym spierać.
 
 Nie chcę, aby twój czas czytania lektur szkolnego wydawał ci się ładniejszy niż był i jeśli lubisz odpoczywać przed telewizorem, to oczywiście twój wybór.
 
-Ja jedynne chcę zaprosić do wypróbowania lektury jako sposobu na relaks.
+Jedynie chcę zaprosić do wypróbowania lektury jako sposobu na relaks.
 
-W czasopiśmie "journal of college teaching and learning" opublikowano badanie przeprowadzone na uniwersytecie Seton Hall. Z Badania wynikało, że czytanie ma podobny wpływ na redukcję stresu, co inne strategie, takie jak humor czy joga. Experiment głównie mierzył tętna krwi przed i po 30 minutowych sesjach każdej z strategii.
-
-
+W czasopiśmie "journal of college teaching and learning" opublikowano badanie przeprowadzone na uniwersytecie Seton Hall. Z Badania wynikało, że czytanie ma podobny wpływ na redukcję stresu, co inne strategie, takie jak humor czy joga. Experyment głównie mierzył tętna krwi przed i po 30-minutowych sesjach każdej ze strategii.
 
 
 
-Inny artykuł idzę jeszce dalej  i stwierdza:
+
+
+Inny artykuł idze jeszcze dalej i stwierdza:
 > Okazało się, że uczestnicy, którzy byli zestresowani, potrzebowali tylko
 > sześciu minut na czytanie, aby zmniejszyć częstość akcji serca i napięcie mięśniowe. Sześć minut! Ogólnie rzecz biorąc, czytanie obniżało poziom stresu o 68 procent,
 > słuchanie muzyki (61 procent), picia kawy (54 procent) i chodzenie na spacer (42 procent). Dr David Lewis opisuje efekt:
-"Naprawdę nie ma znaczenia, jaką książkę czytasz, zatracając się w całkowicie wciągającej książce
+"Naprawdę nie ma znaczenia, jaką książkę czytasz, zatracając się w całkowicie wciągającej książce,
 możesz uciec od zmartwień i stresów codziennego świata i spędzić czas podczas zwiedzania domeny wyobraźni autora. "
 
-W związku z tym chodzi o to, aby przeczytać coś, co lubisz, a jeśli nie znalazłeś książek, które Ci się podobają, spróbuj czegoś nowego, może jesteś w (kryminałowe magazyny może lubisz książki naukowe, może japońskie manga) Jest tak wiele gatunków i jestem pewien, że istnieje wiele książek, które mogą dać ci wspaniałe wrażenia z czytania, zagubienie się w opowieści.
+W związku z tym chodzi o to, aby przeczytać coś, co lubisz, a jeśli nie znalazłeś książek, które Ci się podobają, spróbuj czegoś nowego, może kryminały, a może znajdziesz ciekawą książkę naukową, a może polubisz japońskie manga. Jest tak wiele gatunków i jestem pewien, że istnieje wiele książek, które mogą dać ci wspaniałe wrażenia z czytania, zagubienie się w opowieści.
 
-I kto wie może własnie dzięki temu poczujesz się zrelaksowany i będziesz miał świetną rozrywkę.
+I kto wie może właśnie dzięki temu poczujesz się zrelaksowany i będziesz miał świetną rozrywkę.
 
-Więc następnym razem, jak będziesz chciał się troche zrelaksować i pragniesz świetnej rozrywkę w tym samym czasie, weż książkę i poczytaj. Wypróbuj to jako alternatywę dla oglądania telewizji i surfowania w Internecie lub gier wideo i sam sprawdz czy to prawda.
+Więc następnym razem, jak będziesz chciał się trochę zrelaksować i pragniesz świetnej rozrywkę w tym samym czasie, weź książkę i poczytaj. Wypróbuj to jako alternatywę dla oglądania telewizji i surfowania w Internecie lub gier wideo i sam sprawdź czy to prawda.
 
-I jak spróbujesz to pamietaj, że koszyść często bierze się po jakimś czasie z siły nawyku.
+I jak spróbujesz to pamiętaj, że korzyść często bierze się po jakimś czasie z siły nawyku.
 
 
 Dlatego podsumowując drugą korzyść:
@@ -135,7 +135,7 @@ Ale nie wierz mi na słowo, badania naukowe często pokazują nam bardzo ogranic
 Tak więc dla naszej ostatniej korzyści chcę, abyś spojrzał na swoje życie i przypomniał sobie fakty historyczne, na które patrzyliśmy na początku tego artykułu.
 Przypomni sobie o ludziach, którzy są blisko ciebie i o ludziach, których podziwiasz za ich mądrość, spokój i umiejętność racjonalnego myślenia, żyjących lub martwych.
 
-Istnieje duże prawdopodobieństwo, że ci ludzie są i byli namiętnymy czytelnikami.
+Istnieje duże prawdopodobieństwo, że ci ludzie są i byli namiętnymi czytelnikami.
 
 W końcu chcę was zostawić słowami profesora Loana, Fayaz Ahmada:
 
@@ -143,7 +143,7 @@ Czytanie było pasją największych osobistości wszechczasów. Ludzie czytali o
 
 
 
-Dlatego podsumowując trzeci argument.
+Dlatego podsumowując trzeci argument:
 
 **CZYTAJ! To zwiększy twoją wielkość!**
 
