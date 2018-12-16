@@ -15,45 +15,40 @@ Tematem tego tygodnia na **blogu Jack Dexter** jest czytanie.
 A w dzisiejszym poście przyjrzymy się krótko historii czytania i sprawdzimy, dlaczego w ogóle warto czytać. Jakie mamy korzyści z tego, że będziemy czytali więcej?
 
 
-Zanim zaczniemy, przekazywać argumenty, dlaczego warto czytać, spójrzmy na kilka faktów historycznych:
+Zanim zaczniemy przedstawiać argumenty, dlaczego warto czytać, spójrzmy na kilka faktów historycznych:
 
 
-* Początki ludzkiego języka można z grubsza określić na 100 000 i 50 000 lat temu, (chociażby większość naukowców uznaję, że nie da się określić dokładnej daty powstania języków i podkreślają że powstanie języków był ciągłym procesem).
+* Początki ludzkiego języka można z grubsza określić na 100 000 i 50 000 lat temu, (chociaż większość naukowców uznaje, że nie da się określić dokładnej daty powstania języków i podkreślają że powstanie języków był ciągłym procesem).
 
 
-* pierwszy rysunek jaskini pojawił się około 35000 lat p.n.e.(p.n.e = przed naszą erą).
+* Pierwszy rysunek jaskini pojawił się około 35000 lat p.n.e..
 
 * Pierwsze pisemne zapisy pojawiły się około 6000 lat p.n.e..
 
 * Najstarszy nam znany tekst to tablet Dipilio, który jest datowany na 5 260 p.n.e..
 
-* drukarnia została wynaleziona w roku 1439.
+* Drukarnia została wynaleziona w roku 1439.
 
-* pierwsza publiczna elektroniczna biblioteka cyfrowa została stworzona w roku 1971 (Projekt Gutenberg).
+* Pierwsza publiczna elektroniczna biblioteka cyfrowa została stworzona w roku 1971 (Projekt Gutenberg).
 
 
-Jeśli spojrzymy na wskaźniki publikowania książek z ostatnich kilku lat, okaże się, że każdego roku publikowanych jest ponad 2 miliony książek. Co wynika w ponad 5000 książek publikowanych każdego dnia.
+Jeśli spojrzymy na wskaźniki publikowania książek z ostatnich kilku lat, okazuje się, że każdego roku publikowanych jest ponad dwa miliony książek. To oznacza 5000 książek publikowanych każdego dnia.
 
-Przy tak wielu publikacjach wydawanych można pomyśleć, że ludzie czytają więcej.
+Przy tak wielu publikacjach, można pomyśleć, że ludzie czytają więcej.
 
- Ale czy ludzie czytają więcej niż kiedyś, jak jeszcze nie było tyle książek, czy może przez przypływ nowych technologi ludzie czytają mniej, to naprawdę trudne pytanie.
+ Ale czy ludzie czytają więcej niż kiedyś, jak jeszcze nie było tyle książek? Czy może przez przypływ nowych technologii ludzie czytają mniej? To są naprawdę trudne pytania.
 
 Niezliczone raporty, zwłaszcza z krajów rozwiniętych, mówią, że ludzie spędzają mniej czasu przed książkami.
 
 Według raportu Sense Media z 2014 roku widoczny jest gwałtowny spadek w przyzwyczajeniach czytania nastolatków w wieku od 9 do 17 lat.
 Z drugiej strony są naukowcy, którzy krytykują te
-Raporty za to, że zawierają zbyt wąską definicję czytania, w której nie uwzględnia się czytania witryn mediów społecznościowych, artykułów internetowych i wiadomości online.
+raporty za to, że zawierają zbyt wąską definicję czytania, w której nie uwzględnia się czytania witryn mediów społecznościowych, artykułów internetowych i wiadomości online.
 
-Innymi możliwymi przyczynami spadku tradycyjnych nawyków czytania, oprócz wszechobecności mediów społecznościowych okazały się poza tym, nasz system edukacyjny zniechęcający do czytania, i istnienie milion innych gadżetów, które pochłaniają nasz czas.
+Innymi możliwymi przyczynami spadku tradycyjnych nawyków czytania, oprócz wszechobecności mediów społecznościowych, okazały się poza tym: system edukacyjny zniechęcający do czytania i istnienie milion innych gadżetów, które pochłaniają nasz czas.
 
-Teraz ktoś mógłby powiedzieć, że skoro trend czytania książek idzie w dół i skoro mamy tyle inne media i gadżety, np. YouTube i telefon komórkowy, dlaczego do chuja powinienem czytać więcej książek.
+Teraz ktoś mógłby powiedzieć, że skoro trend czytania książek spada i skoro mamy tyle innych medii i gadżetów, np. YouTube i telefon komórkowy, dlaczego więc powinienem czytać więcej książek.
 
-
-
-
-Zanim więc dam tobie drogi czytelniku szansę wymyślić jakąkolwiek wymówkę, aby nie czytać, chcę ci dać trzy osobiste korzyści, dlaczego czytanie jest dla ciebie dobre.
-
-
+Zanim więc dam tobie, drogi czytelniku, szansę wymyślić jakąkolwiek wymówkę, aby nie czytać, chcę ci przedstawić trzy argumenty, dlaczego czytanie jest dla ciebie dobre.
 
 
 
@@ -139,7 +134,7 @@ Istnieje duże prawdopodobieństwo, że ci ludzie są i byli namiętnymi czyteln
 
 W końcu chcę was zostawić słowami profesora Loana, Fayaz Ahmada:
 
-Czytanie było pasją największych osobistości wszechczasów. Ludzie czytali od wieków, a zatem słowa wiedzy przekazywane były z pokolenia na pokolenie. Przyzwyczajenie czytelnicze wpływa na promowanie rozwoju osobistego w szczególności i postępu społecznego w ogóle. Regularna i systematyczna lektura wyostrza intelekt, poprawia emocje, podnosi gusty i zapewnia perspektywy dla życia; i tym samym przygotowuje osobę do skutecznego uczestnictwa w życiu społecznym, religijnym, kulturalnym i politycznym. Czytanie wyzwala wyobraźnię osoby. Dodaje nowe spojrzenie do oczu i nową mądrość na uwadze.
+> Czytanie było pasją największych osobistości wszechczasów. Ludzie > czytali od wieków, a zatem słowa wiedzy przekazywane były z > pokolenia na pokolenie. Przyzwyczajenie czytelnicze wpływa na > promowanie rozwoju osobistego w szczególności i postępu społecznego > w ogóle. Regularna i systematyczna lektura wyostrza intelekt, > poprawia emocje, podnosi gusty i zapewnia perspektywy dla życia; i > tym samym przygotowuje osobę do skutecznego uczestnictwa w życiu > społecznym, religijnym, kulturalnym i politycznym. Czytanie > wyzwala wyobraźnię osoby. Dodaje nowe spojrzenie do oczu i nową > mądrość na uwadze.
 
 
 
