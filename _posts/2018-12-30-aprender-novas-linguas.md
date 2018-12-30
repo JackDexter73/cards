@@ -1,9 +1,9 @@
 ---
-layout: postar
+layout: post
 título: "Aprendendo idiomas"
 dia: 2018-12-29 15:20:11 0100
 img: learninglanguages.jpeg
-Categorias: inglês
+Categorias: portuguese
 ---
 
 ## Aprendendo idiomas
