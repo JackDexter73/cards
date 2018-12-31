@@ -14,21 +14,21 @@ W tym tygodniu tematem na **blogu Jack Dexter** jest nauka nowych języków.
 
 W tym artykule sprawdzimy, jak nauczyć się nowego języka.
 
-Przede wszystkim chcę stwierdzić, że uczenie się nowego języka jest łatwiej do osiągnięcia, niż mogłoby ci się wydawać. W rzeczywistości posunąłbym się do stwierdzenia, że ​​każdy, kto chce nauczyć się nowego języka, może to zrobić. Przyznaję, że opanowanie języka wymaga sporo pracy, ale dzięki poniższym wskazówkom i sztuczkom będziesz dobrze przygotowany do nauki obcego języka.
+Przede wszystkim chcę stwierdzić, że uczenie się nowego języka jest łatwiej do osiągnięcia, niż mogłoby ci się wydawać. Posunąłbym się nawet do stwierdzenia, że ​​każdy, kto chce nauczyć się nowego języka, może to zrobić. Przyznaję jednak także, że opanowanie języka wymaga sporo pracy, ale dzięki poniższym wskazówkom i sztuczkom będziesz dobrze przygotowany do nauki obcego języka.
 
 W tym poście chcę podzielić się z Wami tym, co odkryłem, badając najlepsze sposoby na naukę nowego języka, a także dodawając trochę własnego doświadczenia.
-Wiele z tych sztuczek sam używałem, inne zostały przetestowane przez ekspertów, i wszystkie zdecydowanie planuję używać przy następnym języku.
+Wiele z tych sztuczek sam używałem, inne zostały przetestowane przez ekspertów, i wszystkie zdecydowanie planuję używać przy nauce następnego języka.
 
 
 Podczas mojich badań okazało się, że prawie wszystkie porady, które można znaleźć w Internecie na temat nauki języków można podzielić na trzy kategorie:
 
-1. Postawa
+1. Nastawienie
 2. Nawyki
 3. Wyjście z twojej strefy komfortu
 
 Dlatego zacznijmy badać te kategorie po koleji.
 
-#### Postawa
+#### Nastawienie
 
 Podobnie jak w przypadku uczenia się czegokolwiek, pozytywne nastawienie lub [mentalność rozwojową](https://www.hbrp.pl/b/mentalnosc-rozwojowa-czym-jest-i-dlaczego-warto-ja-rozwijac/YxJqSVD4?NO_COOKIES=1), może naprawdę poprawić całe doświadczenie edukacyjne. Dotyczy to zwłaszcza nauki języków.
 
