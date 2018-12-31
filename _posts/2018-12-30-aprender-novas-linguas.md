@@ -10,52 +10,50 @@ Categorias: portuguese
 ### Como aprender um novo idioma!
 
 
-O tópico desta semana aqui no ** Jack Dexter Blog ** é o aprendizado de novos idiomas.
+O tópico desta semana aqui no **Jack Dexter Blog** é o aprendizado de novos idiomas.
 
 Este artigo está examinando a questão de como aprender um novo idioma.
 
 Primeiro de tudo, quero afirmar que aprender uma nova língua é mais viável do que você imagina. Na verdade, eu diria que qualquer um que queira aprender uma nova língua pode fazê-lo. Eu admito que é preciso muito trabalho para obter fluência em um idioma, mas com as dicas e truques a seguir, você estará bem preparado para a sua jornada de aprendizado de idiomas.
 
-Neste post eu quero compartilhar com você o que eu descobri, pesquisando as melhores maneiras de aprender um novo idioma e também lançando algumas das minhas próprias experiências.
-Muitos desses truques eu usei outros que eu gostaria de ter usado e todos eles estou planejando integrar na minha próxima aprendizagem de língua.
+Neste post quero compartilhar com você o que eu descobri, pesquisando as melhores maneiras de aprender um novo idioma e também lançando algumas das minhas próprias experiências.
+Muitos desses truques eu usei, outros eu gostaria de ter usado, mas todos eles estou planejando integrar na minha próxima aprendizagem de língua.
 
 
 Enquanto pesquisava, pareceu-me que quase todos os conselhos que você pode encontrar na internet sobre o aprendizado de idiomas podem ser divididos em três categorias:
 
 1. Atitude
 2. Hábitos
-3. Fora do seu Comfortzone
+3. Sair da zona de conforto
 
 Portanto, vamos começar a examinar essas categorias uma por uma.
 
-#### Attitude
+#### Atitude
 
 Assim como aprender qualquer coisa, uma atitude positiva ou mentalidade de crescimento pode realmente melhorar toda a experiência de aprendizado. Isto é particularmente verdadeiro para aprender idiomas.
 
-Preparar a sua mente para aprender pode realmente ser um gamechanger, ajudando você a aprender muito mais do que você pode ter considerado possível. O autor Brian Tracy afirma em seu livro Accelerated learning techniques que preparar sua mente para aprender é o passo mais importante que você pode fazer antes de iniciar uma sessão de aprendizado, para acelerar seu aprendizado, por isso não surpreende que a maioria dos especialistas em idiomas concorde. , que ter uma atitude positiva é crucial para aprender uma nova língua.
+Preparar a sua mente para aprender pode realmente ser um ponto chave, ajudando você a aprender muito mais do que você pode ter considerado possível. O autor Brian Tracy afirma em seu livro Accelerated learning techniques que preparar sua mente para aprender é o passo mais importante antes de iniciar uma sessão de aprendizado. Por isso não surpreende que a maioria dos especialistas em idiomas concorde que ter uma atitude positiva é crucial para aprender uma nova língua.
 
 
 Então, aqui estão as cinco atitudes mais importantes que encontrei durante minha pesquisa:
 
-1. **Sendo curioso**
-É sobre fazer muitas perguntas e tentar imitar o estilo de aprendizagem das crianças pequenas. Seja fascinado com o mundo ao seu redor e tente entender em um novo idioma. Com cada idioma vem uma nova maneira de pensar, disse alguém. Então, seja curioso e explore.
+1. **Ser curioso**
+Se trata sobre fazer muitas perguntas e tentar imitar o estilo de aprendizagem das crianças pequenas. Seja fascinado com o mundo ao seu redor e tente entende-lo em um novo idioma. Há uma frase que diz que com cada idioma vem uma nova maneira de pensar. Então, seja curioso e explore.
 
 2. **metas de idioma**,
-É sobre lembrar, sua motivação e ter um objetivo claro em mente.
+Este item é sobre lembrar de sua motivação e ter um objetivo claro em mente.
 Por que você quer aprender um novo idioma?
 Talvez seja porque você tem membros da família em países diferentes, talvez seja por causa do trabalho ou talvez porque você gosta da cultura, qualquer que seja a razão, é bom manter isso em mente e ser claro sobre seus objetivos. Isso irá ajudá-lo especificamente em tempos difíceis, onde você pode sentir que está perdendo sua motivação.
 
 
 3. **use a palavra ainda**
-Quando estiver conversando com alguém sobre o seu aprendizado, ou mesmo quando estiver pensando, tente usar a palavra ainda. Este conceito vem da mentalidade da escola do crescimento e como ajudar as crianças a aprender. Então, quando você tenta dizer a alguém que você não entende, porque você não pode falar a língua. Digamos que você ainda não entendeu **, porque você não fala muito bem ** ainda **.
-Professor e autor escreve: QUOTE AQUI
-Parece que esta palavra aciona seu cérebro que uma solução tensa é muito próxima.
+Quando estiver conversando com alguém sobre o seu aprendizado, ou mesmo quando estiver pensando, tente usar a palavra ainda. Este conceito vem da mentalidade da escola do crescimento e como ajudar as crianças a aprender. Então, quando você tenta dizer a alguém que você não entende, porque você não pode falar a língua, diga que você  **ainda** não entendeu , porque você **ainda** não fala muito bem. Pesquisas afirmam que esta palavra aciona seu cérebro que uma solução está muito próxima.
 
 4. **pose de vitória**
-Fazer uma pose de vitória ou, em geral, ficar em uma postura forte logo antes de uma rotina de sessão de aprendizado pode não apenas ajudá-lo a entrar de bom humor, mas também pode ajudá-lo a aprender mais. Este vídeo explica com mais detalhes como a nossa postura corporal afeta nosso desempenho.
+Fazer uma pose de vitória ou, em geral, ficar em uma postura forte logo antes de uma rotina de aprendizado pode não apenas ajudá-lo a entrar de bom humor, mas também a aprender mais. [Este vídeo](https://www.youtube.com/watch?v=Ks-_Mh1QhMc) explica com mais detalhes como a nossa postura corporal afeta nosso desempenho. Video
 
-5. **erros de adoção**,
-Se você quer ou não no começo e até mesmo depois de aprender um novo idioma, sempre haverá erros. Portanto, é melhor fazer amizade com eles desde o início, já que os erros são uma parte vital de todo o processo de aprendizagem.
+5. **faca amizade com seus erros**,
+Querendo ou não no começo e até mesmo depois de aprender um novo idioma, sempre haverá erros. Portanto, é melhor fazer amizade com eles desde o início, já que os erros são uma parte vital de todo o processo de aprendizagem.
 
 Portanto, tenha em mente essas atitudes ao iniciar sua jornada de aprendizado de idiomas.
 
@@ -82,9 +80,9 @@ __Possíveis respostas:__
     2. Eu não tenho um parceiro de conversação em línguas
 
 __Possíveis respostas:__
-  * Encontre um amigo genuíno (wikihow)
+  * [Encontre um amigo genuíno](https://pt.wikihow.com/Encontrar-um-Amigo-de-Verdade)
   * usar um site ou plataforma online
-    **Conversar sozinho / raciocinar em voz alta** Falar sozinho tem efeitos positivos semelhantes, como conversar com alguém, e é um dos truques favoritos de muitos especialistas em aprendizagem de idiomas.
+  * **Conversar sozinho / raciocinar em voz alta** Falar sozinho tem efeitos positivos semelhantes, como conversar com alguém, e é um dos truques favoritos de muitos especialistas em aprendizagem de idiomas.
 
 
   2. **imersão diária na mídia**,
